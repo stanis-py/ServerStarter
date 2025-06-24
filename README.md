@@ -28,6 +28,14 @@ A robust Windows application for managing multiple server processes with real-ti
   - IP whitelist for additional security
   - Compatible with web monitoring interfaces
 
+## Integration with CMS
+
+This Server Launcher is fully compatible with the [servermonitoring](https://github.com/stanis-py/servermonitoring) plugin for Azuriom CMS. This integration enables:
+- Remote management of your servers through a web interface
+- Monitoring server status from anywhere
+- Viewing logs remotely
+- Controlling servers through a user-friendly dashboard
+
 ## Requirements
 
 - Windows 7 or later
