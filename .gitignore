@@ -1,0 +1,23 @@
+# Ignore servermonitoring folder
+servermonitoring/
+
+# Build results
+bin/
+obj/
+dist/
+*.exe
+*.pdb
+*.dll
+
+# Visual Studio files
+.vs/
+.vscode/
+*.suo
+*.user
+*.cache
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~ 
