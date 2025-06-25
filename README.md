@@ -1,4 +1,5 @@
 # Server Launcher
+![image](https://github.com/user-attachments/assets/dd759245-d001-4c05-89d7-74c108ef2f07)
 
 A robust Windows application for managing multiple server processes with real-time monitoring and control features.
 
